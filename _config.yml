@@ -1,6 +1,16 @@
 title: "<p align='center'>Rezon Chakraborty</p>"
 logo: /assets/img/IMG_20201115_151035.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: 
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/rezon-chakraborty">LinkedIn</a> |
+  <a href="https://github.com/RezonChakraborty">GitHub</a>
+  <br>
+  <br>
+  I am a A.I. Bot developer working on Oracle Digital Assistant, Microsoft Bot Service, ChatGPT and IBM Watson.
+  Worked at Streebo as a Full-Stack developer.
+  Worked at eClinicalWorks as Data Migration Specialist
+  Working at Mastek in A.I. Team for 3 years.
+  <br>
+  </p>
 theme: jekyll-theme-minimal
