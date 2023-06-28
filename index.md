@@ -1,4 +1,4 @@
-# Machine Learning and Arificial Intelligence Potfolio
+# Machine Learning and Arificial Intelligence Portfolio
 ---
 ## Machine learning
 
